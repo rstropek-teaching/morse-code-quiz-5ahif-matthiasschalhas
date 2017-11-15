@@ -1,0 +1,11 @@
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.deps.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.runtimeconfig.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.runtimeconfig.dev.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.pdb
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.csprojResolveAssemblyReference.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.csproj.CoreCompileInputs.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.AssemblyInfoInputs.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.AssemblyInfo.cs
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.pdb

@@ -1,0 +1,16 @@
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseCodeTester.deps.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseCodeTester.runtimeconfig.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseCodeTester.runtimeconfig.dev.json
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseCodeTester.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseCodeTester.pdb
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseDecoder.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\bin\Debug\netcoreapp2.0\MorseDecoder.pdb
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.csprojResolveAssemblyReference.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.csproj.CoreCompileInputs.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.AssemblyInfoInputs.cache
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.AssemblyInfo.cs
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.dll
+c:\users\matthias\documents\visual studio 2017\Projects\MorseDecoder\MorseCodeTester\obj\Debug\netcoreapp2.0\MorseCodeTester.pdb

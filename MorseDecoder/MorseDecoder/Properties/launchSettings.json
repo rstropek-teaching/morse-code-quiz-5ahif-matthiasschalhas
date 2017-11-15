@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MorseDecoder": {
+      "commandName": "Project",
+      "commandLineArgs": "text1.txt solution.txt",
+      "workingDirectory": "D:\\test1"
+    }
+  }
+}
